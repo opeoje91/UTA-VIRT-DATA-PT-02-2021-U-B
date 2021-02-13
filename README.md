@@ -10,20 +10,19 @@
 
 ## Schedule 2/12 - 8/1
 
-	Tuesday/Thursday:
-		Class: 7:00pm - 9:00pm
-
-		Optional Office Hours: 	6:30pm - 7:00pm (Preclass Drill)
-						    9:00pm - 9:30pm
-
-		Breaks (7 min):		7:30pm & 8:30pm
+Tuesday/Thursday:
+* Optional Office Hours: 	6:30pm - 7:00pm CST 
+* Class: 		       	7:00pm - 9:00pm CST
+* Optional Office Hours: 	9:00pm - 9:30pm CST
 
 Friday:
-    Optional Office Hours:	7:00pm - 9:00pm
+* Optional Office Hours:	7:00pm - 9:00pm
+
 Saturday:
-    Optional Office Hours:	12:00pm - 2:00pm
+* Optional Office Hours:	12:00pm - 2:00pm
+
 Sunday:
-    Optional Office Hours:	12:00pm - 2:00pm
+* Optional Office Hours:	12:00pm - 2:00pm
 
 ## Online Class Norms
 
