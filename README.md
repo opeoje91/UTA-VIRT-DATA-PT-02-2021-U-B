@@ -8,7 +8,7 @@
 
 
 
-## Schedule 2/12 - 8/1
+## Schedule 2/12 - 8/1/2021
 
 Tuesday/Thursday:
 * Optional Office Hours: 	6:30pm - 7:00pm CST 
@@ -16,13 +16,10 @@ Tuesday/Thursday:
 * Optional Office Hours: 	9:00pm - 9:30pm CST
 
 Friday:
-* Optional Office Hours:	7:00pm - 9:00pm
+* Optional Office Hours:	7:00pm - 9:00pm CST
 
-Saturday:
-* Optional Office Hours:	12:00pm - 2:00pm
-
-Sunday:
-* Optional Office Hours:	12:00pm - 2:00pm
+Saturday / Sunday :
+* Optional Office Hours:	12:00pm - 2:00pm CST
 
 ## Online Class Norms
 
