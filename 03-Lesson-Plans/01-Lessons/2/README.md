@@ -53,7 +53,9 @@ By the end of class, students will be able to:
 
 
 <strong>📣 1.1 Instructor Do: Foundation Setting (0:05)</strong>
+
 <strong>🎉 1.2 Everyone Do: Check-In (0:05)</strong>
+
 <strong>🎉  1.3 Everyone Do: Adding files to GitHub (0:15)</strong>
 - - -
 
@@ -63,7 +65,9 @@ By the end of class, students will be able to:
 |---------------------------|---------------------------|
 
 <strong>📣 2.1 Instructor Do: Basic Charting (0:10)</strong>
+
 <strong>✏️ 2.2 Students Do: The Line and Bar Grades (0:15)</strong>
+
 <strong>⭐ 2.3 Review: The Line and Bar Grades (0:05)</strong>
 
 - - -
@@ -75,6 +79,7 @@ By the end of class, students will be able to:
 
 
 <strong> 📣 3.1 Instructor Do: Review Central Tendency, Basic Measures, and Distributions (0:15)</strong>
+
 <strong> 🎉 3.2 Everyone Do: Visualizing Distributions: The Histogram (0:15)</strong>
 
 - - -
@@ -86,7 +91,9 @@ By the end of class, students will be able to:
 |---------------------------|---------------------------|
 
 <strong>📣 4.1 Instructor Do: Quantiles, Outliers, and Boxplots (0:10)</strong>
+
 <strong>✏️ 4.2 Students Do: Outliers - Drawn and Quartiled (0:15)</strong>
+
 <strong>⭐  4.3 Review: Outliers - Drawn and Quartiled (0:05)</strong>
 
 - - -
