@@ -108,7 +108,7 @@ By the end of class, you will be able to:
 | Activity Time:       0:15 |  Elapsed Time:      1:55  |
 |---------------------------|---------------------------|
 
-<strong> 📣  6.1 Instructor Do: Writing to a Text File (0:05)</summary>
+<strong> 📣  6.1 Instructor Do: Writing to a Text File (0:05)</strong>
 
 <strong>🎉 6.2 Everyone Do: Writing Netflix Data (0:10)</strong>
 
@@ -120,6 +120,7 @@ By the end of class, you will be able to:
 |---------------------------|---------------------------|
 
 <strong>📣  7.1 Instructor Do: Review </strong>
+
 ---
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand.  Confidential and Proprietary.  All Rights Reserved.
